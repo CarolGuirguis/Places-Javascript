@@ -1,0 +1,261 @@
+.header{
+    color: rgba(89,175,177,255);
+    font-size: xx-large;
+    font-weight: lighter;
+    
+
+}
+.text{
+    color: black;
+    font-size: x-small;
+    text-align: justify;
+    margin-top: 25px;
+    font-weight: 400;
+
+}
+.first{
+    background-color: white;
+    margin-left: 25px;
+}
+.second{
+    background-color: blue;
+}
+.middle{
+    background-color: white;
+    gap: 20px 20px;
+    margin-left: 25px;
+    margin-bottom: 20px;
+    
+}
+.card{
+    background-color: rgba(243,243,243,255);
+    margin-right: 1rem;
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+  
+}
+.cardheader{
+    color:rgba(23,166,182,255);
+    text-align: center;
+    font-weight: 500;
+    margin-top: 5px;
+}
+.cardtext{
+  font-size: x-small;
+  font-weight: 500px;
+  margin-left: 15px;
+}
+.cardfooter{
+    color: rgba(179,179,179,255);
+    font-size: x-small;
+    font-weight: 400;
+    margin-top: 10px;
+    margin-bottom: 5px;
+}
+.iconpyramidcamel {
+    background: url('../images/pyramidcamel.jpg');
+    height: 100px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+}
+.icon2 {
+    background: url('../images/icon2.jpg');
+    height: 100px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+}
+.icon3 {
+    background: url('../images/icon3.jpg');
+    height: 100px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+}
+.icon4 {
+    background: url('../images/icon4.jpg');
+    height: 100px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+}
+.icon5 {
+    background: url('../images/icon5.jpg');
+    height: 100px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+}
+.icon6 {
+    background: url('../images/icon6.jpg');
+    height: 100px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+}
+.icon7 {
+    background: url('../images/icon7.jpg');
+    height: 100px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+}
+.icon8 {
+    background: url('../images/icon8.jpg');
+    height: 100px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+}
+.icon9 {
+    background: url('../images/icon9.jpg');
+    height: 100px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+}
+.icon10 {
+    background: url('../images/icon10.jpg');
+    height: 100px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+}
+.icon11 {
+    background: url('../images/icon11.jpg');
+    height: 100px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+}
+.icon12 {
+    background: url('../images/icon12.jpg');
+    height: 100px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+  
+}
+
+.footer{
+   
+    color: white;
+    
+    background: url('../images/footer.jpeg'),  rgba(23,166,182,255);
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position-x:870px ;
+    background-position-y: 50px ;
+ 
+}
+.footerheader{
+    margin-top: 30px;
+    
+}
+.footertext{
+    
+    margin-top: 10px;
+    font-size: small;
+    font-weight: 300;
+}
+.footerdetails{
+    margin-top: 10px;
+    font-size: small;
+    font-weight: 300;
+}
+.firstcol{
+    margin-left: 25px;
+}
+.mobile{
+    margin-top: 10px;
+}
+.email{
+    margin-left: 5px;
+}
+.down{
+    margin-top: 10px;
+}
+.contactbtn{
+    margin-top: 15px;
+    color:rgba(23,166,182,255);
+    border-radius: 0%;
+}
+.facebook {
+    background: url('../images/fb.png');
+    height: 50px;
+    width: 5px;
+    border-radius: 50%;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    
+}
+.twitter {
+    background: url('../images/twitter.png');
+    height: 50px;
+    width: 5px;
+    border-radius: 50%;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 10px;
+    
+}
+.pinterest{
+    background: url('../images/pinterest.png');
+    height: 50px;
+    width: 5px;
+    border-radius: 50%;
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    margin-left: 10px;
+    
+}
+.images{
+    margin-top: 20px;
+    margin-left: 4px;
+}
+hr.line{
+    background-color: white;
+}
+.signup{
+    color:rgba(23,166,182,255);
+}
+.inputbutton{
+    margin-top: 10px;
+}
+.moon{
+    color:red;
+    margin-top: 130px;
+}
+
+.calender{
+    margin-left: 10px;
+}
+@media screen and (max-width: 600px)   {
+    .footer{
+   
+        color: white;
+        
+        background: url('../images/footer.jpeg'),  rgba(23,166,182,255);
+        background-repeat: no-repeat;
+        background-size: contain;
+        background-position-x:80px ;
+        background-position-y: 450px ;
+     
+    }
+
+}
